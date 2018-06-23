@@ -10,7 +10,7 @@ Graduation in Systems Analysis And Development
 ## PROFESSIONAL EXPERIENCE 
 ### Full Stack Developer - [IVIA](http://www.ivia.com.br/)
 Acting as outsource by Ivia, I was allocated as a java / angular developer at mobit, a video road monitoring company. I was responsible for the development of tasks related to performance improvement at critical points of the system and other implementations using mainly Google Maps AtI for Angular JS.
-#####  Technologies: JAVA, JAVAEE, REST API, AngularJS, Mongo, NodeJS. Wildfly
+#####  Technologies: Java, JavaEE, REST API, AngularJS, Mongo, NodeJS. Wildfly
 #####  12/2017 - 03/2018. 
 ### Full Stack Developer - [Elomilhas](http://elomilhas.com.br/)
 Responsible for the rewriting of the pass-through search of the company, aiming to improve rendering and performance performance in the front-end (TTI), seeking also to facilitate the maintenance of all application code in a component-based architecture and functional programming. I was responsible for training the team to work with React and Functional Programming on Javascipt.
@@ -35,7 +35,7 @@ Among the most important and innovative projects were the development of the com
 Java, Java EE, JPA/Hibernate, JAX-RS, Jackson, Spring Framework, JSF2, JUnit, iReport, MyBatis, Spring Boot, DropWizard, Maven, Gradle.
 Tomcat, Wildfly / JBoss, Eclipse and IntelliJ.
 PHP, Laravel, Lumen, CodeIgniter, Joomla, Nginx, Apache.
-JavaScript, ES6, React, React-Native, Redux, Angular 1.x, Angular-google-maps, Webpack, Npm, Gulp.
+JavaScript, ES6, React, React-Native, Redux, JWT, Angular 1.x, Angular-google-maps, Webpack, Npm, Gulp.
 ClojurE, Compojure, Pedestal, Jetty, Ring Server.
 HTML5, CSS3, JQuery.
 ### Standards and Concepts
