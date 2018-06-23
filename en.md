@@ -32,9 +32,11 @@ Among the most important and innovative projects were the development of the com
 ##### 2010 - 2013.
 ## SKILLS AND SPECIALTIES
 ### Languages, Frameworks and Tools
-Java, Java EE, JtA / Hibernate, JAX-RS, Jackson, Spring Framework, JSF2, JUnit, iReport, MyBatis, Spring Boot, DropWizard, Maven, Gradle. Tomcat, Wildfly / JBoss, Eclipse and IntelliJ.
-PHP, Laravel, Lumen, CodeIgniter, Joomla, Nginx, Apache. JavaScript, ES6, React, React-Native, Redux, Angular 1.x, Angular-google-maps, Webpack, Npm, Gulp.
-Clojurl, Compojure, tedestal, Jetty, Ring Server.
+Java, Java EE, JPA/Hibernate, JAX-RS, Jackson, Spring Framework, JSF2, JUnit, iReport, MyBatis, Spring Boot, DropWizard, Maven, Gradle.
+Tomcat, Wildfly / JBoss, Eclipse and IntelliJ.
+PHP, Laravel, Lumen, CodeIgniter, Joomla, Nginx, Apache.
+JavaScript, ES6, React, React-Native, Redux, Angular 1.x, Angular-google-maps, Webpack, Npm, Gulp.
+ClojurE, Compojure, Pedestal, Jetty, Ring Server.
 HTML5, CSS3, JQuery.
 ### Standards and Concepts
 REST, MVC, Design tatterns (GoF), Microservices Architetural Design, Functional Programing, Concurrency and parallel programing, Web Services, Information Security.
