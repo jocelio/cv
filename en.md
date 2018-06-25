@@ -2,7 +2,7 @@
 ## + 55 85 997491301 | [linkedin.com/joceliolima](linkedin.com/joceliolima) | jocelio27@gmail.com
 Positive, flexible and self-motivated, always seeking to gather relevant skills for the development of quality software.
 ## ADDRESS
-Rua Benedito Galdino de Lemos - 2655 - Cascavel - CE
+Rua Benedito Galdino de Lemos - 2655 - Cascavel - CE - Brazil
 ## EDUCATION
 FIC - Centro Universitário do Ceará
 Graduation in Systems Analysis And Development
