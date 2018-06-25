@@ -7,11 +7,11 @@ Rua Benedito Galdino de Lemos - 2655 - Cascavel - CE
 FIC - Centro Universitário do Ceará
 Graduation in Systems Analysis And Development
 2012 – 2015.
-## PROFESSIONAL EXPERIENCE 
+## PROFESSIONAL EXPERIENCE
 ### Full Stack Developer - [IVIA](http://www.ivia.com.br/)
 Acting as outsource by Ivia, I was allocated as a java / angular developer at mobit, a video road monitoring company. I was responsible for the development of tasks related to performance improvement at critical points of the system and other implementations using mainly Google Maps AtI for Angular JS.
 #####  Technologies: Java, JavaEE, REST API, AngularJS, Mongo, NodeJS. Wildfly
-#####  12/2017 - 03/2018. 
+#####  12/2017 - 03/2018.
 ### Full Stack Developer - [Elomilhas](http://elomilhas.com.br/)
 Responsible for the rewriting of the pass-through search of the company, aiming to improve rendering and performance performance in the front-end (TTI), seeking also to facilitate the maintenance of all application code in a component-based architecture and functional programming. I was responsible for training the team to work with React and Functional Programming on Javascipt.
 I acted as leader of one of the teams, where I supported other developers acting as facilitator to streamline and optimize our deliveries. I was responsible for planning and coordinating the division of tasks among the team members.
@@ -39,15 +39,15 @@ JavaScript, ES6, React, React-Native, Redux, JWT, Angular 1.x, Angular-google-ma
 ClojurE, Compojure, Pedestal, Jetty, Ring Server.
 HTML5, CSS3, JQuery.
 ### Standards and Concepts
-REST, MVC, Design tatterns (GoF), Microservices Architetural Design, Functional Programing, Concurrency and parallel programing, Web Services, Information Security.
+REST, MVC, Design tatterns (GoF), Microservices Architetural Design, Functional Programming, Concurrency and Parallel Programming, Web Services, Information Security.
 ### Cloud, Versioning, Messaging
 Heroku, Amazon AWS, Open Shift, Subversion, Git, Gitlab, Bitbucket, Docker, ActiveMQ.
 ### Databases
 PostgreSQL, Oracle, MySQL, MongoDB, Datomic.
-## LANGUAGES 
-Portuguese (Native), English (Intermediate) 
+## LANGUAGES
+Portuguese (Native), English (Intermediate)
 ## FREE COURSES
-Microservices With Spring Cloud - Udemy. 
+Microservices With Spring Cloud - Udemy.
 Browser Rendering Optimization - Udacity.
 Docker Basics With DHCQ - Udemy.
 Building Microservices With Clojure - Udemy.Modern React With Redux - Udemy.
