@@ -14,6 +14,7 @@ Atuando como terceirizado pela Ivia, fui alocado como desenvolvedor java / angul
 ##### 12/2017 - 03/2018.
 ### Desenvolvedor Full Stack - [Elomilhas](http://elomilhas.com.br/)
 Responsável pela reescrita da busca repassar da empresa, visando melhorar a performance de renderização e performance no front-end (TTI), buscando também facilitar a manutenção de todo o código da aplicação em uma arquitetura baseada em componentes e programação funcional. Fui responsável pelo treinamento da equipe para trabalhar com React and Functional Programming em Javascipt.
+Trabalhando também com Laravel, contribuindo para o desenvolvimento de uma arquitetura de API Gateway usando OAuth e Laravel/Passport.
 Atuei como líder de uma das equipes, onde apoiei outros desenvolvedores atuando como facilitadores para otimizar e otimizar nossas entregas. Eu era responsável pelo planejamento e coordenação da divisão de tarefas entre os membros da equipe.
 ##### Tecnologias: JavaScript, ES6, React, Redux, Babel, Webpack, AngularJS, Gulp, PHP, Laravel, Mongo, API Gateway, REST.
 ##### 06/2017 - 12/2017.

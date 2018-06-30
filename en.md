@@ -14,6 +14,7 @@ Acting as outsource by Ivia, I was allocated as a java / angular developer at mo
 #####  12/2017 - 03/2018.
 ### Full Stack Developer - [Elomilhas](http://elomilhas.com.br/)
 Responsible for the rewriting of the pass-through search of the company, aiming to improve rendering and performance performance in the front-end (TTI), seeking also to facilitate the maintenance of all application code in a component-based architecture and functional programming. I was responsible for training the team to work with React and Functional Programming on Javascipt.
+Working also with Laravel, contributing to build an Api Gateway architecture, using OAuth and Laravel/Passport.
 I acted as leader of one of the teams, where I supported other developers acting as facilitator to streamline and optimize our deliveries. I was responsible for planning and coordinating the division of tasks among the team members.
 ##### Technologies: JavaScript, ES6, React, Redux, Babel, Webpack, AngularJS, Gulp, PHP, Laravel, Mongo, AtI Gateway, REST API.
 ##### 06/2017 - 12/2017.
