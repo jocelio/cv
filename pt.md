@@ -1,6 +1,6 @@
 # Jocélio Lima da Silva
 ## + 55 85 997491301 | [linkedin.com/joceliolima](linkedin.com/joceliolima) | jocelio27@gmail.com
-Positivo, flexível e auto-motivado, sempre buscando reunir habilidades relevantes para o desenvolvimento de softwares de qualidade.
+Sou um profissional positivo, flexível e motivado, sempre buscando reunir habilidades relevantes para o desenvolvimento de softwares de qualidade.
 ## ENDEREÇO
 Rua Benedito Galdino de Lemos - 2655 - Cascavel - CE
 ## EDUCAÇÃO
@@ -8,17 +8,21 @@ FIC - Centro Universitário do Ceará
 Graduação em Análise e Desenvolvimento de Sistemas
 2012 - 2015.
 ## EXPERIÊNCIA PROFISSIONAL
-### Desenvolvedor Full Stack - [IVIA](http://www.ivia.com.br/)
-Atuando como terceirizado pela Ivia, fui alocado como desenvolvedor java / angular na mobit, uma empresa de monitoramento de tráfego de vídeo. Fui responsável pelo desenvolvimento de tarefas relacionadas à melhoria de performance em pontos críticos do sistema e outras implementações utilizando principalmente o Google Maps API para AngularJS.
+### Desenvolvedor FullStack - [Joyjet](https://joyjet.com/en/)
+Venho atuando como lider tecnico de alguns projetos, coordenando sprints e ajudando o time a seguir boas práticas de desenvolvimento. Na área técnica tenho trabalhado principalmente como desenvolvedor react senior desenvolvendo as mais diversas soluções como libs e realtime apps. Também tendo atuado em alguns projetos utilizando VueJS, NodeJS, Laravel e outras soluçoes baseadas em JavaScript e PHP.
+##### Tecnologias: React, React Native, VueJS, Angular, NodeJs, TypeScript, Laravel.
+##### 06/2018 - Atual.
+### Desenvolvedor FullStack - [IVIA](http://www.ivia.com.br/)
+Atuando como terceirizado pela Ivia, fui alocado como desenvolvedor java / angular na mobit, uma empresa de monitoramento de tráfego por vídeo. Fui responsável pelo desenvolvimento de tarefas relacionadas à melhorias de performance em pontos críticos do sistema e outras implementações utilizando principalmente o Google Maps API para AngularJS.
 ##### Tecnologias: Java, JavaEE, REST API, AngularJS, Mongo, NodeJS. WildFly
 ##### 12/2017 - 03/2018.
-### Desenvolvedor Full Stack - [Elomilhas](http://elomilhas.com.br/)
+### Desenvolvedor FullStack - [Elomilhas](http://elomilhas.com.br/)
 Responsável pela reescrita da busca repassar da empresa, visando melhorar a performance de renderização e performance no front-end (TTI), buscando também facilitar a manutenção de todo o código da aplicação em uma arquitetura baseada em componentes e programação funcional. Fui responsável pelo treinamento da equipe para trabalhar com React and Functional Programming em Javascipt.
 Trabalhando também com Laravel, contribuindo para o desenvolvimento de uma arquitetura de API Gateway usando OAuth e Laravel/Passport.
 Atuei como líder de uma das equipes, onde apoiei outros desenvolvedores atuando como facilitadores para otimizar e otimizar nossas entregas. Eu era responsável pelo planejamento e coordenação da divisão de tarefas entre os membros da equipe.
 ##### Tecnologias: JavaScript, ES6, React, Redux, Babel, Webpack, AngularJS, Gulp, PHP, Laravel, Mongo, API Gateway, REST.
 ##### 06/2017 - 12/2017.
-### Desenvolvedor Full Stack - [Accenture](https://www.accenture.com/)
+### Desenvolvedor FullStack - [Accenture](https://www.accenture.com/)
 Atuando com implantação e manutenção de softwares, análise e revisão de código e melhoria da estrutura de software em que a equipe era responsável. Tive a oportunidade de disseminar os princípios ágeis, com o objetivo de aumentar a capacidade de adaptação do grupo para melhor atender as necessidades dos clientes e reduzir a burocracia do processo fabril, melhorando tanto a qualidade quanto a satisfação da equipe com a qualidade de o software lançado.
 ##### Tecnologias: Java, Spring Boot, Spring Batch, API REST, Ruby on Rails, AngularJS, Babel, Adobe Flex, Flesh.
 ##### 02/2017 - 06/2017.
@@ -34,7 +38,7 @@ Entre os projetos mais importantes e inovadores estavam o desenvolvimento da Int
 ## COMPETÊNCIAS E ESPECIALIDADES
 ### Linguagens, Frameworks e Ferramentas
 Java, Java EE, JPA / Hibernate, JAX-RS, Jackson, Spring Framework, JSF2, JUnit, iReport, MyBatis, Spring Boot, DropWizard, Maven, Gradle. Tomcat, Wildfly / JBoss, Eclipse e IntelliJ.
-PHP, Laravel, Lumen, CodeIgniter, Joomla, Nginx, Apache. JavaScript, ES6, React, React-Native, Redux, Angular 1.x, Angular-google-mapas, Webpack, Npm, Gulp.
+PHP, Laravel, Lumen, CodeIgniter, Joomla, Nginx, Apache. JavaScript, ES6, React, NextJS, React-Native, Redux, Angular 1.x, Angular-google-mapas, Webpack, Npm, Gulp.
 Clojure, Compojure, Pedestal, Jetty, Ring Server.
 HTML5, CSS3, JQuery.
 ### Padrões e Conceitos
@@ -44,7 +48,7 @@ Heroku, Amazon AWS, OpenShift, Subversion, Git, Gitlab, Bitbucket, Docker, Activ
 ### Bancos de dados
 PostgreSQL, Oracle, MySQL, MongoDB, Datomic.
 ## IDIOMAS
-Português (Nativo), Inglês (Intermediário)
+Português (Nativo), Inglês (Avançado)
 ## CURSOS GRATUITOS
 Microservices Com Spring Cloud - Udemy.
 Otimização de Renderização de Navegador - Udacity.
