@@ -8,6 +8,8 @@ FIC - Centro Universitário do Ceará
 Graduation in Systems Analysis And Development
 2012 – 2015.
 ## PROFESSIONAL EXPERIENCE
+### Full Stack Developer - [Joyjet](https://joyjet.com/en/)
+I've been acting as technical leader of some projects, coordinating sprints and helping the team to follow good development practices. In the technical area I have been working mainly as a react senior developer developing the most diverse solutions such as libs and realtime apps. Also having worked on some projects using VueJS, NodeJS, Laravel and other solutions based on JavaScript and PHP.
 ### Full Stack Developer - [IVIA](http://www.ivia.com.br/)
 Acting as a outsourced by Ivia, I was allocated as a java / angular developer at [Mobit](http://www.mobitbrasil.com.br/), a video road monitoring company. I was responsible for the development of tasks related to performance improvement at critical points of the system and other implementations using mainly Google Maps API for Angular JS.
 #####  Technologies: Java, JavaEE, REST API, AngularJS, Mongo, NodeJS. Wildfly

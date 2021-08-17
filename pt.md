@@ -9,7 +9,7 @@ Graduação em Análise e Desenvolvimento de Sistemas
 2012 - 2015.
 ## EXPERIÊNCIA PROFISSIONAL
 ### Desenvolvedor FullStack - [Joyjet](https://joyjet.com/en/)
-Venho atuando como lider tecnico de alguns projetos, coordenando sprints e ajudando o time a seguir boas práticas de desenvolvimento. Na área técnica tenho trabalhado principalmente como desenvolvedor react senior desenvolvendo as mais diversas soluções como libs e realtime apps. Também tendo atuado em alguns projetos utilizando VueJS, NodeJS, Laravel e outras soluçoes baseadas em JavaScript e PHP.
+Venho atuando como líder técnico de alguns projetos, coordenando sprints e ajudando o time a seguir boas práticas de desenvolvimento. Na área técnica tenho trabalhado principalmente como desenvolvedor react senior desenvolvendo as mais diversas soluções como libs e realtime apps. Também tendo atuado em alguns projetos utilizando VueJS, NodeJS, Laravel e outras soluçoes baseadas em JavaScript e PHP.
 ##### Tecnologias: React, React Native, VueJS, Angular, NodeJs, TypeScript, Laravel.
 ##### 06/2018 - Atual.
 ### Desenvolvedor FullStack - [IVIA](http://www.ivia.com.br/)
